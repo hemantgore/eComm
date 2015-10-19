@@ -1,0 +1,1 @@
+../../../SWNavigationController/SWNavigationController/PodFiles/SWPushAnimatedTransitioning.h

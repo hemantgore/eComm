@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CHTCollectionViewWaterfallLayout.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>EAIntroView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>EARestrictedScrollView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SWNavigationController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0316CED3A8F9EAC402BF204C163E3641</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4C9E99CC2B5F0FA4FC11C2E24D4EF986</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9B36D462102DAF8E84F6D9AB9C868C59</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D1EC2572C5166CE2498C72FAF128EABE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D6472ADA7082A03ED6BAAA0A560B7689</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
